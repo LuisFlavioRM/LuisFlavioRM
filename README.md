@@ -2,10 +2,15 @@
 
 <div align="center">
 
-# Luís Flávio Morais
 
-**Software Developer · Java Backend · Flutter Mobile · SQL Server DBA**
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,35:123C69,70:1D4ED8,100:6D28D9&text=Luís%20Flávio%20Morais&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20|%20Flutter%20Mobile%20|%20SQL%20Server%20|%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software;Backend+Java+%7C+Mobile+Flutter+%7C+Database+Engineering;Integra%C3%A7%C3%B5es%2C+automa%C3%A7%C3%A3o+e+arquitetura;Building+software.+Solving+real+problems." alt="Typing SVG" />
+</p>
+  
 *Tecnologia para resolver problemas reais, com foco em qualidade, performance e evolução contínua.*
 
 ![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=F89820)
